@@ -1,25 +1,16 @@
 Hi 👋 my name is Isaac Leksrisawat
 ==================================
 
-I'm currently studying Information Science at the University of North Carolina at Chapel Hill and am passionate about pursuing a career as a Data Analyst.
+- I am currently a student at the University of North Carolina at Chapel Hill majoring in Information Science with a minor in (PPE) Philosophy/ Politics/ Economics.
+- I am passionate about pursuing a career as a Data Analyst
+- Outside of these pursuits I love philosophy, traveling, drawing, and a variety of sports 
+- Skills: SQL, Excel, Tableau, Java
 
-*   ✉️  You can contact me at [isaacjlek@gmail.com](mailto:isaacjlek@gmail.com)
-                  ### Socials
-                  
-                  
-                <p align="left">
-                      <a href="https://www.github.com/isaacjlek" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/isaacjlek" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>
+*   ✉️  You can contact me at [isaacjlek@gmail.com]
 
+    OR
+
+*   <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/isaacjlek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaacjlek" height="30" width="40" /></a>
+</p>
