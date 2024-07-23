@@ -1,8 +1,8 @@
 Hi 👋 my name is Isaac Leksrisawat
 ==================================
 
-- I am currently a student at the University of North Carolina at Chapel Hill majoring in Information Science with a minor in (PPE) Philosophy/ Politics/ Economics.
-- I am passionate about pursuing a career as a Data Analyst
+- I am currently a student at the University of North Carolina at Chapel Hill majoring in Information Science with a minor in (PPE) Philosophy/ Politics/ Economics
+- I am passionate about pursuing a career as a Data Analyst, Data Scientist, or similar position
 - Outside of these pursuits I love philosophy, traveling, art, and a variety of sports 
 - Skills: SQL, Excel, Tableau, Java
 
