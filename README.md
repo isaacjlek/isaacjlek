@@ -2,7 +2,7 @@ Hi 👋 my name is Isaac Leksrisawat
 ==================================
 
 - I am currently a student at the University of North Carolina at Chapel Hill majoring in Information Science and Psychology
-- I am passionate about pursuing a career as a Data Analyst, Data Scientist, or similar position
+- I am passionate about pursuing a career as a Data/Business Analyst, or similar position
 - Outside of these pursuits I love philosophy, traveling, art, and a variety of sports 
 - Skills: SQL, Excel, Tableau, Java, Jamovi
 
